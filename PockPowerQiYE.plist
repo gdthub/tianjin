@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>https://github.com/gdthub/PockPowerQiye/blob/master/PockPowerQiYE.ipa?raw=true</string>
+					<key>kind</key>
+					<string>software-package</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>掌上电力试用版</string>
+				<key>bundle-identifier</key>
+				<string>com.QPushSgcc.PockPower</string>
+				<key>bundle-version</key>
+				<string>2.0.2</string>
+				<key>kind</key>
+				<string>software</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
